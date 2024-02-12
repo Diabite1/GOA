@@ -1,0 +1,6 @@
+print("Tea","epremidze")
+print("Ani","epremidze")
+print("Mari","epremidze")
+print("Levan","egirselashvili")
+print("Barbare","egriselashvili")
+print("Alexandra","egriselashvili")
